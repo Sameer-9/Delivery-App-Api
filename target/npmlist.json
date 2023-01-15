@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"api","dependencies":{"bcryptjs":{"version":"2.4.3"},"cookie-parser":{"version":"1.4.6"},"dotenv":{"version":"16.0.3"},"express":{"version":"4.18.2"},"jsonwebtoken":{"version":"8.5.1"},"nodemon":{"version":"2.0.20"},"pg":{"version":"8.8.0"}}}
